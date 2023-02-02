@@ -1,1 +1,1 @@
-# -HRI-Hand-Gesture-Recognition
+# HRI-Hand-Gesture-Recognition
